@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: test2-sup - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\WINDOWS\TEMP\RSPE278.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/test2-sup.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\第五学期课程\计算机图形学\第二次实验补充\test2-sup.cpp"
+]
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSPE278.tmp" 
+<h3>Output Window</h3>
+Compiling...
+test2-sup.cpp
+
+
+
+<h3>Results</h3>
+test2-sup.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
